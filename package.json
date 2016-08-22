@@ -24,11 +24,9 @@
   },
   "homepage": "https://github.com/eustimenko/simple-react-demo#readme",
   "dependencies": {
-    "core-js": "^2.0.0",
-    "normalize.css": "^4.0.0",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
     "bootstrap": "3.3.x",
-    "react-bootstrap": "*"
+    "http-server": "0.9.x"
   }
 }
